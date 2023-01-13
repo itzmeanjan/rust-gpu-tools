@@ -1,3 +1,5 @@
+> **Warning** I've stopped maintaining this fork !
+
 # rust-gpu-tools [![Crates.io](https://img.shields.io/crates/v/rust-gpu-tools.svg)](https://crates.io/crates/rust-gpu-tools)
 
 An abstraction library to run kernels on both CUDA and OpenCL.
